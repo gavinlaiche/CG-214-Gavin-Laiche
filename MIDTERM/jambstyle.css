@@ -1,0 +1,39 @@
+body{
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: cover;
+    background-image: url("jamb3.jpg")
+}
+
+#theHeight{
+  
+    height: 1500px;
+}
+
+p{
+    
+    color: dimgray;
+    font-size: 28px;
+    font-family: sans-serif;
+    font-weight: 100;
+    letter-spacing: 3px;
+    padding: 10px;
+    background: rgba(255,255,255,0.65);
+    width: 550px;
+    position: fixed;
+    left: 695px;
+    top: -10px;
+}
+
+h1{
+    
+    color: white;
+    font-size: 72px;
+    text-align: center;
+    width: 550px;
+    position: fixed;
+    top: -30px;
+    left: 70px;
+    letter-spacing: 3px;
+    
+}

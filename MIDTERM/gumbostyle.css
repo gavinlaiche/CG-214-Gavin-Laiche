@@ -1,0 +1,38 @@
+body{
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: cover;
+    background-image: url("SeafoodGumbo.jpg");
+}
+
+h1{
+    
+    color: white;
+    font-size: 72px;
+    text-align: center;
+    width: 700;
+    position: fixed;
+    top: -19px;
+    left: 520px;
+    letter-spacing: 3px;
+    
+}
+
+#theHeight{
+  
+    height: 1200px;
+}
+
+p{
+    
+    color: dimgray;
+    font-size: 28px;
+    font-family: sans-serif;
+    font-weight: 100;
+    letter-spacing: 3px;
+    padding: 10px;
+    background: rgba(255,255,255,0.65);
+    width: 400px;
+    position: fixed;
+    left: 30px;
+}

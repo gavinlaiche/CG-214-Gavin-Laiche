@@ -1,0 +1,115 @@
+
+
+body{
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: cover;
+    background-image: url("MidtermHomepage.jpg");
+
+}
+
+h1{
+    
+    color: white;
+    font-size: 72px;
+    
+}
+
+h3{
+    
+    color: white;
+    font-size: 30px;
+    font-family: sans-serif;
+    font-variant-caps: all-small-caps;
+    position: relative;
+    top: -50px;
+    letter-spacing: 4px;
+    font-weight: 100;
+    
+    
+}
+
+p{
+    
+    color: dimgray;
+    font-variant-caps: all-small-caps;
+    font-size: 28px;
+    font-family: sans-serif;
+    font-weight: 100;
+    letter-spacing: 3px;
+    width: 300px;
+    padding: 5px;
+    background: rgba(255,255,255,0.65);
+    text-align: center;
+    position: fixed;
+    left: 900px;
+    top: 150px;
+}
+
+#theHeight{
+  
+    height: 1200px;
+}
+
+/*THESE NEXT IDs ARE FOR A HIDDEN BUTTON*/
+#myLink{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 800px;
+    left: 900px;
+}
+
+#theLink{
+   display:block;
+    height: 100%;
+    width: 100%;
+    
+}
+
+
+#myLink2{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 780px;
+    left: 300px;
+}
+
+#theLink2{
+   display:block;
+    height: 100%;
+    width: 100%;
+    
+}
+
+
+#myLink3{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 1050px;
+    left: 520px;
+}
+
+#theLink3{
+   display:block;
+    height: 100%;
+    width: 100%;
+    
+}
+
+#myLink4{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 650px;
+    left: 920px;
+}
+
+#theLink4{
+   display:block;
+    height: 100%;
+    width: 100%;
+    
+}
