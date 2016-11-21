@@ -1,0 +1,71 @@
+body{
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-image: url("flumebg.jpg");
+    background-attachment: fixed;
+    background-position: left;
+    height: 70px;
+}
+    
+    
+#FLUME{
+    position:relative;
+    top: -30px;
+}
+
+
+#theflower{
+    position: absolute;
+    top: 23px;
+    border: 0px;
+    padding: 0px;
+}
+
+#hovertext{
+    color: white;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    letter-spacing: 3px;
+    font-variant-caps: all-small-caps;
+    padding: 13px;
+    width: 21%;
+    position: relative;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    top: -40px;
+    border-style: solid;
+    border-width: 2px;
+}
+
+
+#playlist{
+    position: relative;
+    left: 680px;
+    top: -15px;
+    width: 40%;
+    
+}
+
+#playlisthead{
+    
+    position: relative;
+    left: 740px;
+    color: white;
+    font-family: sans-serif;
+    width: 30%;
+    text-align: center;
+    font-size: 30px;
+    top: 20px;
+    
+}
+
+
+#logos{
+    
+    position: relative;
+    width: 15%;
+   top: 285px;
+    left: 10px;
+}
